@@ -1,4 +1,4 @@
-# 🪓 Miniguia de Estudos: O Universo de God of War (NotebookLM)
+# 🪓 Miniguia de Estudos: O Universo de God of War ([NotebookLM]((https://notebooklm.google.com/notebook/af8d1df0-33f4-4bad-a7a9-181ef0faba9d))
 
 Este repositório foi desenvolvido como parte de um desafio de projeto na **DIO (Digital Innovation One)**. O objetivo é demonstrar a utilização da Inteligência Artificial, especificamente o **NotebookLM**, como uma ferramenta de aprendizagem ativa para curadoria e organização de conhecimento técnico sobre games.
 
@@ -43,4 +43,4 @@ O conteúdo consolida a jornada de Kratos como um equilíbrio entre força bruta
 * *"Quais quebra-cabeças dependem do uso do ambiente e como resolvê-los?"*
 
 ---
-✨ **Projeto desenvolvido por brunindoads**
+✨ **Projeto desenvolvido por [brunindoads](https://github.com/brunindoads)**
